@@ -7,7 +7,7 @@ All the code generated for big data analytics research project.
 2. **EI (Economic Indicator)**: General measure indicating the economic health of a region, such as GDP growth or unemployment rates.
 3. **IRT (Interest Rate Trend)**: Describes the trend or movement of interest rates over a given period (e.g., increasing, stable, decreasing).
 4. **MS (Market Sentiment)**: Reflects the overall attitude of investors toward a particular market or economy.
-5. **GEO (Geopolitical Status)**: Refers to the current state of geopolitical affairs, such as stability, conflict, or trade relationships.
+5. **GEO (Geopolitical Status)**: Refers to the current state of geopolitical affairs, such as stability, conflict, or trade relationships. In some other codes, it is also the Geographic Classification/Area Type, which represents the type of region or area in consideration, such as urban, suburban, or rural. However, they both contribute the same.
 6. **UE (Unemployment Rate)**: Indicates the percentage of the labor force that is unemployed and actively seeking work.
 7. **GDP (Gross Domestic Product)**: Total economic output of a country, measuring economic performance and growth.
 8. **INF (Inflation Rate)**: Represents the rate at which the general price level of goods and services is rising, eroding purchasing power.
