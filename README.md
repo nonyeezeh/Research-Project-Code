@@ -1,6 +1,12 @@
 # Research-Project-Code
 All the code generated for big data analytics research project.
 
+# Abbreviations
+1. BN: Bayesian network
+2. NN: neural network
+3. RQ1: research question 1
+4. RQ2: research question 2
+
 # Variables used in the data generation project
 
 1. **IR (Interest Rate)**: Represents the base interest rate set by a central bank, influencing economic conditions.
@@ -20,3 +26,6 @@ All the code generated for big data analytics research project.
 15. **SP (Stock Performance)**: Outcome variable representing the overall performance or trend of the stock market (e.g., increase, stable, decrease).
 
 These nodes collectively create a complex network reflecting the interactions and dependencies among different economic and market factors.
+
+# Code Use
+- `NN 1_3 3`: Neural network with 1 hidden layer and 3 nodes (25 epochs and batch size 16), trained on data that contains only 3 variables. This same code was also used to train a NN with 6 hidden layers and 30 nodes per layer (500 epochs and batch size 320). This data was used for both RQ1 and RQ2.
